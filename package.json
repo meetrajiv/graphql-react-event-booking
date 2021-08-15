@@ -1,0 +1,25 @@
+{
+  "name": "graphql-react-event-booking",
+  "version": "1.0.0",
+  "description": "GraphQL React Event Booking App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meetrajiv/graphql-react-event-booking.git"
+  },
+  "keywords": [
+    "GraphQL",
+    "React",
+    "MongoDB",
+    "NodeJS"
+  ],
+  "author": "Rajiv Prasad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meetrajiv/graphql-react-event-booking/issues"
+  },
+  "homepage": "https://github.com/meetrajiv/graphql-react-event-booking#readme"
+}
